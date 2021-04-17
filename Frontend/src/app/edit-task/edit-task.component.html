@@ -1,0 +1,65 @@
+<form novalidate autocomplete="off" (ngSubmit)="onSubmit(data)" #taskForm="ngForm">
+    <mat-drawer-container>
+        <mat-drawer mode="side" opened>
+            <div>
+                <mat-form-field class="example-form-field title">
+                    <mat-label class="title">Enter task title</mat-label>
+                    <input matInput type="text" name="title" #title="ngModel" [(ngModel)]="data.title" required [class.invalid]="title.invalid && title.touched">
+                </mat-form-field>
+                <mat-form-field class="example-form-field">
+                    <mat-label class="opis">Enter task description</mat-label>
+                    <textarea class="textarea" matInput type="text" name="description" #description="ngModel" [(ngModel)]="data.description" required [class.invalid]="description.invalid && description.touched"> </textarea>
+                </mat-form-field>
+            </div>
+        </mat-drawer>
+        <mat-drawer-content>
+
+            <mat-form-field class="cat-select">
+                <mat-label>Select a category</mat-label>
+                <mat-select class="select" name="category" #category="ngModel" [(ngModel)]="data.categoryId" required [class.invalid]="title.invalid && title.touched">
+                    <mat-option *ngFor="let category of categories" [value]="category.categoryId" name="category">
+                        {{category.title}}
+                    </mat-option>
+                </mat-select>
+            </mat-form-field>
+
+            <div class="item">
+                <div class="att">Priority: </div>
+                <mat-form-field class="selected">
+                    <mat-label>Select a priority</mat-label>
+                    <mat-select class="select" name="priority" #priority="ngModel" [(ngModel)]="data.priorityId" required [class.invalid]="title.invalid && title.touched">
+                        <mat-option *ngFor="let priority of priorities" [value]="priority.priorityId">
+                            {{priority.name}}
+                        </mat-option>
+                    </mat-select>
+                </mat-form-field>
+            </div>
+
+            <div class="item">
+                <div class="label">Assignee: </div>
+                <mat-form-field class="selected2">
+                    <mat-label>Select an assignee</mat-label>
+                    <mat-select class="select" name="user" #user="ngModel" [(ngModel)]="data.userId" required [class.invalid]="title.invalid && title.touched">
+                        <mat-option *ngFor="let user of users" [value]="user.userId">
+                            {{user.firstName + ' ' + user.lastName}}
+                        </mat-option>
+                    </mat-select>
+                </mat-form-field>
+            </div>
+
+            <div class="pickes">
+                <mat-form-field appearance="fill" class="picker">
+                    <mat-label>Due date</mat-label>
+                    <input matInput [matDatepicker]="picker" matInput [min]="minDate" value="endDate" name="endDate" #endDate="ngModel" [(ngModel)]="data.endDate">
+                    <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                    <mat-datepicker #picker></mat-datepicker>
+                </mat-form-field>
+            </div>
+
+            <div class="buttons">
+                <button mat-raised-button color="primary" class="edit-button" type="submit" [disabled]="taskForm.invalid">Edit</button>
+                <button mat-raised-button color="primary" class="button1" (click)="closeContainer()">Cancel</button>
+            </div>
+        </mat-drawer-content>
+    </mat-drawer-container>
+</form>

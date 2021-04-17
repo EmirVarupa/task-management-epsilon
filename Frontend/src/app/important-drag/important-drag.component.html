@@ -1,0 +1,37 @@
+<div class="parent-container">
+    <div class="example-container ">
+        <h2>To do</h2>
+        <button mat-raised-button (click)="addToDo()">+</button>
+        <div cdkDropList #activeList="cdkDropList" [cdkDropListData]="activeTasks" [cdkDropListConnectedTo]="[doneList]" class="example-list" (cdkDropListDropped)="drop($event)">
+            <div class="example-box" *ngFor="let item of activeTasks | slice : startPage:paginationLimitActive" cdkDrag>
+                <div>
+                    <app-task [item]="item"></app-task>
+                </div>
+            </div>
+        </div>
+        <button mat-raised-button *ngIf="paginationLimitActive > 0 " (click)="showMoreItems(true)" class="more-less-button"> 
+        Show More
+       </button>
+        <button mat-raised-button *ngIf="paginationLimitActive > 2" (click)="showLessItems(true)" class="more-less-button">
+        Show Less
+       </button>
+    </div>
+
+    <div class="example-container">
+        <h2>Important Done Tasks</h2>
+        <div class="space"></div>
+        <div cdkDropList #doneList="cdkDropList" [cdkDropListData]="doneTasks" [cdkDropListConnectedTo]="[activeList]" class="example-list" (cdkDropListDropped)="drop($event)">
+            <div class="example-box" *ngFor="let item of doneTasks | slice : startPage:paginationLimitDone" cdkDrag>
+                <div>
+                    <app-task [item]="item"></app-task>
+                </div>
+            </div>
+        </div>
+        <button mat-raised-button *ngIf="paginationLimitDone > 0" (click)="showMoreItems(false)" class="more-less-button"> 
+        Show More
+       </button>
+        <button mat-raised-button *ngIf="paginationLimitDone > 2" (click)="showLessItems(false)" class="more-less-button">
+        Show Less
+       </button>
+    </div>
+</div>

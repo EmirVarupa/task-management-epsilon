@@ -1,0 +1,118 @@
+.example-container {
+    font-family: Titillium Web;
+    height: 500px;
+    width: 700px;
+}
+
+input {
+    font-size: 20px;
+    border: none;
+    width: 300px;
+}
+
+mat-drawer {
+    display: block;
+    width: 400px;
+}
+
+.opis {
+    font-size: 15px;
+    color: black;
+}
+
+mat-drawer-content {
+    width: 200px;
+    width: 100%;
+}
+
+.title {
+    font-size: 25px;
+}
+
+mat-form-field {
+    width: 80%;
+}
+
+.cat-select {
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+
+.select {
+    background-color: white;
+    color: white;
+}
+
+.att {
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.item {
+    display: flex;
+}
+
+.selected {
+    margin-top: 30px;
+    width: 70px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+.selected2 {
+    width: 70px;
+    margin-left: 40px;
+}
+
+.label {
+    margin-left: 10px;
+}
+
+.picker {
+    width: 150px;
+    display: block;
+}
+
+.pickes {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.button1 {
+    background-color: white;
+    margin-right: 20px;
+    color: black;
+}
+
+.buttons {
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.button2 {
+    background-color: #40c4ac;
+}
+
+.attributes {
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.attributes p {
+    margin-top: 20px;
+}
+
+.title {
+    font-size: 25px;
+}
+
+
+/* .drawer-full {
+    padding: 0px;
+}
+
+.drawer-title-desc {
+    padding: 20px;
+} */

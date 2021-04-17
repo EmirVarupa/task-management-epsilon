@@ -1,0 +1,12 @@
+button {
+    text-decoration-line: underline;
+    background: none;
+    border: none;
+    transition: 0.3s;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+button:hover {
+    background-color: #c4c4c450;
+}

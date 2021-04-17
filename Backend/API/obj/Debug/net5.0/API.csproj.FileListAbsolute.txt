@@ -1,0 +1,357 @@
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\appsettings.json
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.exe
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.deps.json
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.dll
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.pdb
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.dll
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.pdb
+C:\Users\Harun\Desktop\Epsilon\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\appsettings.json
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.exe
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.deps.json
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\ref\API.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Humanizer.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\ref\API.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\ref\API.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\appsettings.json
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.exe
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.deps.json
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\ref\API.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Humanizer.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+A:\Data\Projects\Softray Solutions\Bitbucket\Novo\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.pdb
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\appsettings.json
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.exe
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.deps.json
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.pdb
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\Harun\Desktop\EpsilonNew\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\AutoMapper.dll
+A:\Data\Projects\Softray Solutions\Bitbucket\taskmanagement_api\Backend\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\appsettings.json
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.exe
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.deps.json
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\ref\API.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\AutoMapper.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Humanizer.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\ref\API.dll
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.pdb
+A:\Data\Projects\Softray Solutions\Bitbucket merge\moje\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\appsettings.json
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.exe
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.deps.json
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\ref\API.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\API.pdb
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\AutoMapper.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Humanizer.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\ref\API.dll
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.pdb
+A:\Data\Projects\Softray Solutions\FINAL-VERSION\taskmanagement_api\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache

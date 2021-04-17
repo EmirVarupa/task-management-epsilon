@@ -1,0 +1,17 @@
+<mat-drawer-container class="example-container">
+    <mat-drawer mode="side" opened>
+        <div>
+            <p class="title">Task title: {{data.title}}</p>
+            <p clsss="description">Task description {{data.description}}</p>
+        </div>
+    </mat-drawer>
+    <mat-drawer-content>
+        <div class="attributes">
+            <p>Category: {{data.category}}</p>
+            <p>Priority: {{data.priority}}</p>
+            <p>Asignee: {{data.userFirstName + ' ' + data.userLastName}}</p>
+            <p>Creation date: {{data.creationDate}}</p>
+            <p>End date: {{data.endDate}}</p>
+        </div>
+    </mat-drawer-content>
+</mat-drawer-container>

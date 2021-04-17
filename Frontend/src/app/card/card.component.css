@@ -1,0 +1,40 @@
+* {
+    font-family: Titillium Web
+}
+
+.card {
+    width: 350px;
+    height: 500px;
+    margin: 30px;
+    border-radius: 30px;
+    background-color: #f6fafa;
+}
+
+.container {
+    display: flex;
+    margin-top: 0px;
+    margin-left: 100px;
+}
+
+.task {
+    height: 150px;
+    margin-top: 30px;
+}
+
+.add {
+    margin-top: 30px;
+}
+
+.plus {
+    align-items: center;
+}
+
+button {
+    margin-top: 30px;
+    width: 100%;
+    background-color: #e8f1f0;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 400;
+    color: #41c3ab;
+}

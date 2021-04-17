@@ -1,0 +1,104 @@
+.user {
+    margin-left: 20px;
+}
+
+.example-container {
+    width: 100%;
+    height: 100%;
+    background-color: #fefefe;
+}
+
+mat-sidenav {
+    width: 420px;
+    height: 100%;
+    font-size: 20px;
+    padding: 30px;
+    background-color: #fbfbfb;
+    margin-bottom: 100px;
+}
+
+.profile {
+    height: 150px;
+}
+
+.korisnik {
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.ikona img {
+    height: 30px;
+}
+
+.ikona {
+    margin-top: 20px;
+    display: flex;
+    margin-left: 80px;
+}
+
+.ikona label {
+    font-size: 18px;
+    margin-left: 30px;
+}
+
+.meni {
+    margin-top: 50px;
+}
+
+.cards {
+    margin-left: 600px;
+    margin-top: 700px;
+}
+
+.logout {
+    margin-top: 200px;
+}
+
+a,
+a:link {
+    text-decoration: none;
+    color: #4C4C4C;
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+    transition: 0.3s;
+}
+
+a:hover {
+    background-color: #c4c4c450;
+}
+
+.router-link-active {
+    background-color: #c4c4c450;
+}
+
+.header {
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.menu {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.menu p {
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+
+.liste {
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.epsilon {
+    font-weight: bold;
+    font-size: 25px;
+}
