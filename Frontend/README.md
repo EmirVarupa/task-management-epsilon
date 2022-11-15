@@ -1,46 +1,4 @@
-
-# Bug Tracker
-.NET and Angular Bug Tracker with updated design
-
-## New Design
-
-![screenshot_1](src/assets/images/screenshot_1.jpg)
-
-![screenshot_1](src/assets/images/screenshot_1.jpg)
-
-![screenshot_2](src/assets/images/screenshot_2.jpg)
-
-![screenshot_3](src/assets/images/screenshot_3.jpg)
-
-![screenshot_4]/src/assets/images/screenshot_4.jpg)
-
-![screenshot_5](src/assets/images/screenshot_5.jpg)
-
-![screenshot_6](src/assets/images/screenshot_6.jpg)
-
-![screenshot_7](src/assets/images/screenshot_7.jpg)
-
-## Old Design
-
-![screenshot_12](src/assets/images/screenshot_12.jpg)
-
-![screenshot_13](src/assets/images/screenshot_13.jpg)
-
-![screenshot_14](src/assets/images/screenshot_14.jpg)
-
-![screenshot_15](src/assets/images/screenshot_15.jpg)
-
-![screenshot_16](src/assets/images/screenshot_16.jpg)
-
-![screenshot_17](src/assets/images/screenshot_17.jpg)
-
-![screenshot_18](src/assets/images/screenshot_18.jpg)
-
-![screenshot_19](src/assets/images/screenshot_19.jpg)
-
-
-
-## Frontend
+# Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
