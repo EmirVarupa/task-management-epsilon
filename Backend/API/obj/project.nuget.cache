@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gx0Kb2QZY8COpoMrjHgEsVg4xFj2FLW8s+HiT5R1RBOA3Y4gGsHd0pjRBqqn11p0FbSUhnyU5PSsPkpLIDzXCQ==",
+  "dgSpecHash": "t+gBPN4tmiPmv+fQ4k30M+JcH8ScMfopnx+QPoihxxFJNXMVR+aeyFxmNHACSS1JFnlifwZiWOwxACTsrnzNOw==",
   "success": true,
-  "projectFilePath": "A:\\Data\\Projects\\Softray Solutions\\FINAL-VERSION\\taskmanagement_api\\Backend\\API\\API.csproj",
+  "projectFilePath": "A:\\Data\\GitHub\\TaskManagementEpsilon\\Backend\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\storm\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\storm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

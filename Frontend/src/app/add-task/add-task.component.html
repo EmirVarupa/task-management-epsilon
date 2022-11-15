@@ -16,19 +16,18 @@
 
             <mat-form-field class="cat-select">
                 <mat-label>Select a category</mat-label>
-                <mat-select class="select" name="category" #category="ngModel" [(ngModel)]="newTask.categoryId" required [class.invalid]="title.invalid && title.touched">
+                <mat-select class="select select-custom" name="category" #category="ngModel" [(ngModel)]="newTask.categoryId" required [class.invalid]="title.invalid && title.touched">
                     <mat-option *ngFor="let category of categories" [value]="category.categoryId" name="category">
                         {{category.title}}
                     </mat-option>
                 </mat-select>
             </mat-form-field>
-
             <div class="item">
                 <div class="att">Priority: </div>
                 <mat-form-field class="selected">
                     <mat-label>Select a priority</mat-label>
                     <mat-select class="select" name="priority" #priority="ngModel" [(ngModel)]="newTask.priorityId" required [class.invalid]="title.invalid && title.touched">
-                        <mat-option *ngFor="let priority of priorities" [value]="priority.priorityId">
+                        <mat-option class="select-option-custom" *ngFor="let priority of priorities" [value]="priority.priorityId">
                             {{priority.name}}
                         </mat-option>
                     </mat-select>
@@ -58,7 +57,7 @@
 
             <div class="buttons">
                 <button mat-raised-button color="primary" class="create-button" type="submit" [disabled]="taskForm.invalid">Create</button>
-                <button mat-raised-button color="primary" class="button1" (click)="closeContainer()">Cancel</button>
+                <button mat-button color="warn" class="button1" (click)="closeContainer()">Cancel</button>
             </div>
         </mat-drawer-content>
     </mat-drawer-container>

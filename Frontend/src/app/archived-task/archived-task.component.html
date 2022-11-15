@@ -1,4 +1,4 @@
-<div class="container">
+<!-- <div class="container">
     <div class="first-row">
         <h1>
             {{item.title}}
@@ -20,4 +20,21 @@
             <button (click)="ChangeArchiveState(item)">Remove from archived</button>
         </div>
     </div>
-</div>
+</div> -->
+
+
+<mat-card class="task">
+    <div fxLayout="row" fxLayoutAlign="space-between center">
+        <h1>{{item.title}}</h1>
+        <button class="btn-more" mat-icon-button (click)="ChangeArchiveState(item)">
+            <mat-icon>undo</mat-icon>
+          </button>
+
+    </div>
+
+    <mat-card-content>{{item.description}}</mat-card-content>
+    <div fxLayout="row" fxLayoutAlign="space-between center">
+        <p class="assignee">{{item.user.firstName + ' ' + item.user.lastName}}</p>
+        <p class="priority" [ngClass]="{ 'bg-danger': item.priority.name=='High' , 'bg-warning': item.priority.name=='Medium' , 'bg-info': item.priority.name=='Low' } ">{{item.priority.name}}</p>
+    </div>
+</mat-card>

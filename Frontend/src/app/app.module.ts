@@ -25,9 +25,11 @@ import { DetailsComponent } from './details/details.component';
 import { MatDialogActions, MatDialogModule } from '@angular/material/dialog';
 import {MatDatepickerModule, MatDatepickerToggle} from '@angular/material/datepicker';
 import {MatInputModule} from '@angular/material/input';
+import {MatMenuModule} from '@angular/material/menu';
 import { FormsModule } from '@angular/forms';
 import { EditTaskComponent } from './edit-task/edit-task.component';
 import { AddTaskComponent } from './add-task/add-task.component';
+import { FlexLayoutModule } from "@angular/flex-layout";
 
 @NgModule({
   declarations: [
@@ -48,6 +50,7 @@ import { AddTaskComponent } from './add-task/add-task.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    MatMenuModule,
     BrowserAnimationsModule,
     MatSidenavModule,
     MatCardModule,
@@ -61,7 +64,8 @@ import { AddTaskComponent } from './add-task/add-task.component';
     MatNativeDateModule,
     MatDialogModule,
     MatInputModule,
-    FormsModule
+    FormsModule,
+    FlexLayoutModule
   ],
   providers: [],
   bootstrap: [AppComponent]

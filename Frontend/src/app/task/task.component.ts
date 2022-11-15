@@ -1,4 +1,4 @@
-import { ElementRef } from '@angular/core';
+import { ElementRef, ViewEncapsulation } from '@angular/core';
 import { Component, Input } from '@angular/core';
 import { Task } from '../models/task';
 import { TasksService } from '../services/tasks.service';
@@ -9,7 +9,8 @@ import { EditTaskComponent } from '../edit-task/edit-task.component';
 @Component({
   selector: 'app-task',
   templateUrl: './task.component.html',
-  styleUrls: ['./task.component.css']
+  styleUrls: ['./task.component.css'],
+  encapsulation: ViewEncapsulation.None
 })
 export class TaskComponent {
 

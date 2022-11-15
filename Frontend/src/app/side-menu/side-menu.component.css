@@ -1,5 +1,16 @@
 .user {
+    font-size: 24px;
+    font-weight: 500;
     margin-left: 20px;
+    margin-bottom: 0px;
+    color: #E5E4E2;
+}
+
+.app-title {
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 20px;
+    color: #EB5757;
 }
 
 .example-container {
@@ -9,12 +20,17 @@
 }
 
 mat-sidenav {
-    width: 420px;
+    width: 288px;
     height: 100%;
     font-size: 20px;
-    padding: 30px;
-    background-color: #fbfbfb;
+    padding: 0px;
+    background-color: #242526;
     margin-bottom: 100px;
+}
+
+mat-sidenav-container,
+mat-sidenav-content {
+    background-color: #18191A;
 }
 
 .profile {
@@ -59,7 +75,7 @@ mat-sidenav {
 a,
 a:link {
     text-decoration: none;
-    color: #4C4C4C;
+    color: #E5E4E2;
     padding: 10px;
     border-radius: 10px;
     width: 200px;
@@ -67,11 +83,22 @@ a:link {
 }
 
 a:hover {
-    background-color: #c4c4c450;
+    color: #EB5757;
 }
 
 .router-link-active {
-    background-color: #c4c4c450;
+    border-left: 3px solid #EB5757;
+}
+
+.router-link-active .nav-icon,
+.router-link-active .nav-text {
+    color: #EB5757;
+}
+
+.nav-icon {
+    color: #E5E4E2;
+    width: 40px;
+    padding: 10px;
 }
 
 .header {
@@ -101,4 +128,17 @@ a:hover {
 .epsilon {
     font-weight: bold;
     font-size: 25px;
+}
+
+.btn-sidebar-menu {
+    border-radius: 0px;
+    color: #E5E4E2;
+    width: 100%;
+    padding-left: 40px;
+    padding: 7px 0px 7px 40px;
+}
+
+.app-details-container {
+    padding-top: 40px;
+    padding-left: 20px;
 }

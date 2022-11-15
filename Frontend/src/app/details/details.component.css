@@ -2,6 +2,7 @@
     font-family: Titillium Web;
     height: 500px;
     width: 700px;
+    color: #E5E4E2;
 }
 
 input {
@@ -13,6 +14,8 @@ input {
 mat-drawer {
     display: block;
     width: 400px;
+    color: #E5E4E2;
+    background-color: #242526;
 }
 
 .opis {
@@ -23,6 +26,7 @@ mat-drawer {
 mat-drawer-content {
     width: 200px;
     width: 100%;
+    background-color: #3a3b3c;
 }
 
 .title {
@@ -106,6 +110,10 @@ mat-form-field {
 
 .title {
     font-size: 25px;
+}
+
+.drawer-container-custom {
+    padding: 20px;
 }
 
 

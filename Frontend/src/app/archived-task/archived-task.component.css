@@ -1,12 +1,84 @@
-button {
-    text-decoration-line: underline;
-    background: none;
-    border: none;
-    transition: 0.3s;
-    border-radius: 5px;
-    padding: 3px;
+/* NEW DESIGN */
+
+.card {
+    width: 535px;
+    height: 97vh;
+    margin-top: 24px;
+    border-radius: 10px;
+    background-color: #242526;
+    color: white;
+    padding: 24px;
+    box-shadow: none;
+    border-radius: 10px;
 }
 
-button:hover {
-    background-color: #c4c4c450;
+.status {
+    padding: 3px 10px;
+    background-color: #EB5757;
+    border-radius: 10px;
+    font-style: normal;
+    margin: 0px;
+    font-family: Titillium Web;
+}
+
+.counter {
+    color: #EB5757;
+    background-color: #3A3B3C;
+    font-size: 24px;
+    border-radius: 5px;
+    padding: 9px 10px;
+}
+
+.task {
+    background-color: #3A3B3C;
+    color: white;
+    box-shadow: none;
+}
+
+.fa-plus:before {
+    font-size: 21px;
+}
+
+.icon {
+    margin: 0 0 16px;
+}
+
+mat-card-content {
+    color: #E5E4E2;
+}
+
+mat-card {
+    border-radius: 10px;
+}
+
+.assignee {
+    color: #EB5757;
+}
+
+p {
+    margin: 0px;
+}
+
+.priority {
+    background-color: #EB5757;
+    padding: 0px 10px;
+    border-radius: 15px;
+}
+
+
+/* NEW DESIGN END */
+
+.btn-more {
+    position: relative;
+    top: -10px;
+}
+
+.menu-custom {
+    background-color: #3A3B3C !important;
+    color: #E5E4E2 !important;
+}
+
+.mat-menu-item,
+.mat-menu-item .mat-icon {
+    color: #E5E4E2;
 }

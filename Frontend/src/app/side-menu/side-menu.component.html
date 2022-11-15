@@ -1,41 +1,40 @@
 <mat-sidenav-container class="example-container">
     <mat-sidenav mode="side" opened>
-        <p class="Epsilon">Epsilon</p>
-        <div class="korisnik">
-            <img src="assets/unnamed.png" class="profile">
-            <h1 class="user">Ajna Fetić</h1>
+        <div class="app-details-container">
+            <h1 class="user">Emir Varupa</h1>
+            <p class="app-title">Bug Tracker</p>
         </div>
-        <div class="meni">
-            <div class="ikona">
-                <a [routerLink]="['/home']" routerLinkActive="router-link-active">
-                    <mat-icon aria-hidden="false" aria-label="Example home icon">home</mat-icon>
-                    <label>Tasks</label>
-                </a>
-            </div>
-            <div class="ikona">
-                <a [routerLink]="['/important']" routerLinkActive="router-link-active">
-                    <mat-icon>stars</mat-icon>
-                    <label>Important</label>
-                </a>
-            </div>
-            <div class="ikona">
-                <a [routerLink]="['/assigned']" routerLinkActive="router-link-active">
-                    <mat-icon>person</mat-icon>
-                    <label>Assigned to you</label>
-                </a>
-            </div>
-            <div class="ikona">
-                <a [routerLink]="['/archived']" routerLinkActive="router-link-active">
-                    <mat-icon>archive</mat-icon>
-                    <label>Archived</label>
-                </a>
-            </div>
-        </div>
+        <nav fxLayout="column" fxLayoutGap="6" class="meni">
+
+            <button class="btn-sidebar-menu" fxLayout="row" fxLayoutAlign="start center" mat-button [routerLink]="['/home']" routerLinkActive="router-link-active">
+                <span class="nav-text">
+                    <i class="fa fa-bug nav-icon"></i>
+                    All Tickets
+                </span>
+            </button>
+
+            <button class="btn-sidebar-menu" fxLayout="row" fxLayoutAlign="start center" mat-button [routerLink]="['/important']" routerLinkActive="router-link-active">
+                <span class="nav-text">
+                    <i class="fa fa-exclamation-circle nav-icon"></i>
+                    Important
+                </span>
+            </button>
+            <button class="btn-sidebar-menu" fxLayout="row" fxLayoutAlign="start center" mat-button [routerLink]="['/assigned']" routerLinkActive="router-link-active">
+                <span class="nav-text">
+                    <i class="fa fa-user nav-icon"></i>
+                    My Tickets
+                </span>
+            </button>
+            <button class="btn-sidebar-menu" fxLayout="row" fxLayoutAlign="start center" mat-button [routerLink]="['/archived']" routerLinkActive="router-link-active">
+                <span class="nav-text">
+                    <i class="fa fa-archive nav-icon"></i>
+                    Archived
+                </span>
+            </button>
+        </nav>
+
     </mat-sidenav>
     <mat-sidenav-content>
-        <div class="header">
-            <p>Tasks</p>
-        </div>
         <router-outlet class="liste"></router-outlet>
     </mat-sidenav-content>
 </mat-sidenav-container>

@@ -1,34 +1,45 @@
-<div class="parent-container">
-    <div class="example-container">
-        <h2>Archived To do</h2>
-        <div cdkDropList #activeList="cdkDropList" [cdkDropListData]="activeTasks" [cdkDropListConnectedTo]="[doneList]" class="example-list" (cdkDropListDropped)="drop($event)">
-            <div class="example-box" *ngFor="let item of activeTasks | slice : startPage:paginationLimitActive" cdkDrag>
+<div fxLayout="column" fxLayoutAlign="center center" fxLayoutGap="8px">
+    <h1 class="heading">Archived Tickets</h1>
+
+    <div fxLayout="row" fxLayoutAlign="center start" fxLayoutGap="60px">
+        <mat-card fxLayout="column" fxLayoutAlign=" stretch" fxLayoutGap="12px" class="card">
+            <div fxLayout="row" fxLayoutAlign="space-between center">
+                <h1 class="status">In Progress</h1>
+                <div class="counter">{{activeTasks.length}}</div>
+            </div>
+
+            <div class="example-box" *ngFor="let item of activeTasks | slice : startPage:paginationLimitActive">
                 <div>
                     <app-archived-task [item]="item"></app-archived-task>
                 </div>
             </div>
-        </div>
-        <button mat-raised-button *ngIf="paginationLimitActive > 0 " (click)="showMoreItems(true)" class="more-less-button">
-            Show More
-        </button>
-        <button mat-raised-button *ngIf="paginationLimitActive > 2" (click)="showLessItems(true)" class="more-less-button">
+            <button mat-raised-button *ngIf="paginationLimitActive > 2" (click)="showLessItems(true)" class="btn-more-less">
             Show Less
         </button>
-    </div>
-    <div class="example-container">
-        <h2>Archived Done</h2>
-        <div cdkDropList #doneList="cdkDropList" [cdkDropListData]="doneTasks" [cdkDropListConnectedTo]="[activeList]" class="example-list" (cdkDropListDropped)="drop($event)">
-            <div class="example-box" *ngFor="let item of doneTasks | slice : startPage:paginationLimitDone" cdkDrag>
+            <button mat-raised-button *ngIf="paginationLimitActive > 0 " (click)="showMoreItems(true)" class="btn-more-less">
+            Show More
+        </button>
+
+        </mat-card>
+
+        <mat-card fxLayout="column" fxLayoutAlign=" stretch" fxLayoutGap="12px" class="card">
+            <div fxLayout="row" fxLayoutAlign="space-between center">
+                <h1 class="status" style="background-color: #27AE60;">Fixed</h1>
+                <div class="counter" style="color: #27AE60;">{{doneTasks.length}}</div>
+            </div>
+
+            <div class="example-box" *ngFor="let item of doneTasks | slice : startPage:paginationLimitDone">
                 <div>
                     <app-archived-task [item]="item"></app-archived-task>
                 </div>
             </div>
-        </div>
-        <button mat-raised-button *ngIf="paginationLimitDone > 0" (click)="showMoreItems(false)" class="more-less-button">
-            Show More
-        </button>
-        <button mat-raised-button *ngIf="paginationLimitDone > 2" (click)="showLessItems(false)" class="more-less-button">
+            <button mat-raised-button *ngIf="paginationLimitDone > 2" (click)="showLessItems(false)" class="btn-more-less">
             Show Less
         </button>
+            <button mat-raised-button *ngIf="paginationLimitDone > 0" (click)="showMoreItems(false)" class="btn-more-less">
+            Show More
+        </button>
+
+        </mat-card>
     </div>
 </div>

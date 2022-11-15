@@ -1,4 +1,4 @@
-<div class="container">
+<!-- <div class="container">
     <div class=" first-row ">
         <h1 (click)="OpenDetails(item) ">
             {{item.title}}
@@ -20,4 +20,56 @@
             <i class="far fa-trash-alt fa-lg mr-2 icon icon-delete " (click)="ChangeArchiveState(item) "></i>
         </div>
     </div>
-</div>
+</div> -->
+
+<!-- <div class="container">
+    <div class=" first-row ">
+     
+        <div class=" mb-3 bg-secondary text-white rounded-pill align-middle " [ngClass]="{ 'bg-danger': item.priority.name=='High' , 'bg-warning': item.priority.name=='Medium' , 'bg-info': item.priority.name=='Low' } ">
+            <h4 class="priority-heading align-middle ">{{item.priority.name}}</h4>
+        </div>
+    </div>
+    <div class="third-row ">
+        <div>
+            <i class="far fa-eye fa-lg mr-3 icon " (click)="OpenDetails(item) "></i>
+            <i class="far fa-edit fa-lg mr-3 icon " (click)="editTask(item) "></i>
+            <i class="far fa-trash-alt fa-lg mr-2 icon icon-delete " (click)="ChangeArchiveState(item) "></i>
+        </div>
+    </div>
+</div> -->
+
+<mat-card class="task mat-elevation-z0">
+    <div fxLayout="row" fxLayoutAlign="space-between center">
+        <h1 class="card-title" (click)="OpenDetails(item)">{{item.title}}</h1>
+        <!-- <i class="fas fa-solid fa-ellipsis-h icon"></i> -->
+        <!-- <button class="btn-more" mat-icon-button>
+            <mat-icon>more_horiz</mat-icon>
+          </button> -->
+
+        <button class="btn-more" mat-icon-button [matMenuTriggerFor]="menu">
+            <mat-icon>more_horiz</mat-icon>
+          </button>
+        <mat-menu class="menu-custom" #menu="matMenu">
+            <button mat-menu-item (click)="OpenDetails(item)">
+              <mat-icon>remove_red_eye</mat-icon>
+              <span>Details</span>
+            </button>
+            <button mat-menu-item (click)="editTask(item) ">
+              <mat-icon>edit</mat-icon>
+              <span>Edit Assignment</span>
+            </button>
+            <button mat-menu-item (click)="ChangeArchiveState(item) ">
+              <mat-icon class="icon-color ">archive</mat-icon>
+              <span>Archive Assignment</span>
+            </button>
+        </mat-menu>
+
+
+    </div>
+
+    <mat-card-content>{{item.description}}</mat-card-content>
+    <div fxLayout="row " fxLayoutAlign="space-between center ">
+        <p class="assignee ">{{item.user.firstName + ' ' + item.user.lastName}}</p>
+        <p class="priority " [ngClass]="{ 'bg-danger': item.priority.name=='High' , 'bg-warning': item.priority.name=='Medium' , 'bg-info': item.priority.name=='Low' } ">{{item.priority.name}}</p>
+    </div>
+</mat-card>

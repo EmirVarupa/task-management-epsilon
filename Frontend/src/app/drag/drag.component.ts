@@ -93,9 +93,11 @@ constructor(private tasksService: TasksService, private dialog: MatDialog) {
     .subscribe(res => {
       if (listActive) {
         this.activeTasks = [ ...this.activeTasks, ...res];
+        this.paginationLimitActive = this.activeTasks.length;
         this.paginationLimitActive = Number(this.paginationLimitActive) + 2;
       } else {
         this.doneTasks = [ ...this.doneTasks, ...res];
+        this.paginationLimitActive = this.activeTasks.length;
         this.paginationLimitDone = Number(this.paginationLimitDone) + 2;
       }
     });

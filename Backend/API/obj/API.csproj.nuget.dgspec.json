@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Data\\Projects\\Softray Solutions\\FINAL-VERSION\\taskmanagement_api\\Backend\\API\\API.csproj": {}
+    "A:\\Data\\GitHub\\TaskManagementEpsilon\\Backend\\API\\API.csproj": {}
   },
   "projects": {
-    "A:\\Data\\Projects\\Softray Solutions\\FINAL-VERSION\\taskmanagement_api\\Backend\\API\\API.csproj": {
+    "A:\\Data\\GitHub\\TaskManagementEpsilon\\Backend\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Data\\Projects\\Softray Solutions\\FINAL-VERSION\\taskmanagement_api\\Backend\\API\\API.csproj",
+        "projectUniqueName": "A:\\Data\\GitHub\\TaskManagementEpsilon\\Backend\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "A:\\Data\\Projects\\Softray Solutions\\FINAL-VERSION\\taskmanagement_api\\Backend\\API\\API.csproj",
+        "projectPath": "A:\\Data\\GitHub\\TaskManagementEpsilon\\Backend\\API\\API.csproj",
         "packagesPath": "C:\\Users\\storm\\.nuget\\packages\\",
-        "outputPath": "A:\\Data\\Projects\\Softray Solutions\\FINAL-VERSION\\taskmanagement_api\\Backend\\API\\obj\\",
+        "outputPath": "A:\\Data\\GitHub\\TaskManagementEpsilon\\Backend\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\storm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

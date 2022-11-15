@@ -58,7 +58,8 @@
 
             <div class="buttons">
                 <button mat-raised-button color="primary" class="edit-button" type="submit" [disabled]="taskForm.invalid">Edit</button>
-                <button mat-raised-button color="primary" class="button1" (click)="closeContainer()">Cancel</button>
+                <!-- <button mat-raised-button color="primary" class="button1" (click)="closeContainer()">Cancel</button> -->
+                <button mat-button color="warn" (click)="closeContainer()">Cancel</button>
             </div>
         </mat-drawer-content>
     </mat-drawer-container>
