@@ -24,18 +24,18 @@ Simplified task management software using Angular and .NET
 
 ## Old Design
 
-![screenshot_12](images/screenshot_12.jpg)
+![screenshot_12](images/screenshot_12-min.jpg)
 
-![screenshot_13](images/screenshot_13.jpg)
+![screenshot_13](images/screenshot_13-min.jpg)
 
-![screenshot_14](images/screenshot_14.jpg)
+![screenshot_14](images/screenshot_14-min.jpg)
 
-![screenshot_15](images/screenshot_15.jpg)
+![screenshot_15](images/screenshot_15-min.jpg)
 
-![screenshot_16](images/screenshot_16.jpg)
+![screenshot_16](images/screenshot_16-min.jpg)
 
-![screenshot_17](images/screenshot_17.jpg)
+![screenshot_17](images/screenshot_17-min.jpg)
 
-![screenshot_18](images/screenshot_18.jpg)
+![screenshot_18](images/screenshot_18-min.jpg)
 
-![screenshot_19](images/screenshot_19.jpg)
+![screenshot_19](images/screenshot_19-min.jpg)
