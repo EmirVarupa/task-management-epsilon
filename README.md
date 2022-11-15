@@ -1,8 +1,5 @@
 # TaskManagementApplication
-Simplified task management software using Angular and .NET
-
-## NEW: Bug Tracker
-.NET and Angular Bug Tracker with updated design
+.NET and Angular Bug Tracker with updated design. Preview of Both old and new designs are available below:
 
 ## New Design
 
