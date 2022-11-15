@@ -6,7 +6,7 @@ Simplified task management software using Angular and .NET
 
 ## New Design
 
-![screenshot_1](/images/screenshot_1.jpg)
+![preview11](/images/peview1.jpg)
 
 ![screenshot_1](/images/screenshot_1.jpg)
 
